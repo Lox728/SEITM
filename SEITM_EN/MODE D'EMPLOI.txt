@@ -1,0 +1,6 @@
+Ouvrir le fichier 'seitm.py'
+Exécuter le programme avec la touche 'F5'
+
+En sortie :
+	- fichier texte avec données d'entrée
+	- graphique de sortie

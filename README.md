@@ -1,5 +1,5 @@
 # SEITM
-TIPE project - y2021/2022 - in collaboration with J. Racki and H.Bourdais  
+TIPE Project - y2021/2022 - in collaboration with J. Racki and H.Bourdais  
 
 For this project, we had to work on the topic of Health  
   

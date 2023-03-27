@@ -1,2 +1,2 @@
 # SEITM
-A Python project about epidemic propagation in a crowd
+A Python project about epidemics propagation in a crowd
